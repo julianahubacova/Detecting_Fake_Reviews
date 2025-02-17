@@ -1,6 +1,3 @@
-# Detecting_Fake_Reviews
-ML to classify book reviews as fake or real
-
 # Fake Book Review Detection 
 ### Group Project – Using Machine Learning to Improve Goodreads' Credibility  
 
