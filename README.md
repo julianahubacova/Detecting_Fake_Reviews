@@ -61,6 +61,5 @@ This project is for academic purposes under the MIT License.
 ## How to Run the Notebook  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/julianahubacova/detecting_fake_reviews.git
-
+   git clone https://github.com/julianahubacova/Detecting_Fake_Reviews.git
 
